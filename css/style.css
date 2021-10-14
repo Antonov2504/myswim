@@ -105,7 +105,14 @@ button:hover {
     -webkit-transition-property: visibility,opacity;
     transition-property: visibility,opacity;
     z-index: 9999;
+    cursor: pointer;
 }
+
+.anchor_hidden {
+    visibility: hidden;
+    opacity: 0;
+    right: -10vw;
+  }
 
 .tab-content, .content__thanks {
     display: none;
