@@ -27,6 +27,6 @@
 
 **Установка**
 
-Проект можно скачать себе и развернуть локально из гитхаб репозитория [mesto](https://github.com/Antonov2504/myswim), командой:
+Проект можно скачать себе и развернуть локально из гитхаб репозитория [myswim](https://github.com/Antonov2504/myswim), командой:
  ```html
-$ git clone https://github.com/Antonov2504/yum.git
+$ git clone https://github.com/Antonov2504/myswim.git
